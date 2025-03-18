@@ -12,9 +12,10 @@
 - 💬 Ask me about **DevOps and Cloud**
 
 - 📫 How to reach me **chandrasekharc784@gmail.com**
-
+<img align="right" alt="Coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="www.linkedin.com/in/chandrasekhar-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chadalawada-chandrasekhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
